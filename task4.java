@@ -11,9 +11,9 @@ public static void main(String[] args) {
         String reversed = sb.reverse().toString();
 
         if (input.equals(reversed)) {
-            System.out.print("The input string is a palindrome.");
+            System.out.println("The input string is a palindrome.");
         } else {
-            System.out.print("The input string is not a palindrome.");
+            System.out.println("The input string is not a palindrome.");
         }
     }
     

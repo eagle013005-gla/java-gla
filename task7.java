@@ -20,5 +20,6 @@ public class task7 {
         System.out.println("Difference: " + subtract(x, y));
         System.out.println("Product: "  + multiply(x, y));
         System.out.println("Quotient: " + divide(x, y));
+        sc.close();
     }
 }

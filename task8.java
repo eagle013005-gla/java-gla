@@ -1,3 +1,4 @@
+//
 public class task8 {
     
     static int sumAll(int... nums) {

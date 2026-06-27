@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UserAuthentication",
+            "request": "launch",
+            "mainClass": "GCashApp.UserAuthentication",
+            "projectName": "java-gla_a8c351d3"
+        },
+        {
+            "type": "java",
+            "name": "GcashApp",
+            "request": "launch",
+            "mainClass": "GCashApp.GcashApp",
+            "projectName": "java-gla_a8c351d3"
+        },
+        {
+            "type": "java",
             "name": "task16",
             "request": "launch",
             "mainClass": "task16",
